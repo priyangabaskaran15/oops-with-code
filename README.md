@@ -3,22 +3,15 @@ A collection of my Object-Oriented Programming concepts, examples, and practice 
 
 ## Topics Covered
 
+- What is an OOP ?
 - Classes & Objects
-- Constructors
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-- Interfaces
-- Method Overloading
-- Method Overriding
-- Association
-- Aggregation
-- Composition
+- Pillars of OOP and real time example 
+    >>  Types and Programs for four pillars 
+    >> Why doesn't Java support multiple inheritance with classes? (Diamond Problem)
 - Access Modifiers
-- this & super
-- static & final
-- Exception Handling
+- Constructors
+- keywords ( this, super, final , static )
+- Association, Aggregation, Composition
 
 ## Purpose
 
