@@ -1,0 +1,21 @@
+Class vs Object :
+------------------------------------------------------------------------
+Class : 
+A class is a blueprint or template or prototype to  create objects 
+Example
+class Car {
+    String color;
+    void drive() {
+        System.out.println("Car is driving");
+    }
+}
+Here, Car is a class. It defines what a car object can have and do.
+--------------------------------------------------------------------------
+Object :
+Object is an instance of a class which denotes the state and behaviour 
+Example
+Car car1 = new Car();
+Car car2 = new Car();
+Here, car1 and car2 are objects (instances) of the Car class.
+--------------------------------------------------------------------------
+
