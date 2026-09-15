@@ -1,0 +1,45 @@
+// It contains Theory based concepts with real time examples : 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Encapsulation : 
+Encapsulation is the process of bundling data and the methods that operate on that data into a single unit, such as a class. It also helps control access to the data 
+Real-Time Example: Bank Account 🏦
+
+In a banking application, a customer's balance should not be directly accessible or modified by anyone.
+
+Instead, the balance is kept private, and users interact with it through methods such as deposit() and withdraw().
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2.Inheritance:
+Inheritance is a mechanism in which a child class inherits properties and methods from a parent class. It also promotes code reusability 
+Real-Time Example 🚗
+
+A Car is a type of Vehicle, so it can inherit common properties and behaviors such as speed, start, and stop from the Vehicle.
+The Car can also have its own specific features, such as openTrunk() or playMusic().
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. Abstraction:
+	Abstraction is the process of hiding unnecessary implementation details and showing only the essential features to the user 
+
+Real-Time Example: Online Payment : 💳
+
+When you make an online payment, you simply click:
+"Pay Now"
+
+You don't need to know:
+> How the payment request is encrypted
+> How the bank server is contacted
+> How authentication happens
+> How the transaction is processed
+> How the response is received
+
+You only interact with the essential functionality.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4.Polymorphism: 
+Polymorphism means many forms. It allows the same method or interface to behave differently depending on the object. 
+
+Real-Time Example: Payment System : 💰
+
+Imagine an application supporting multiple payment methods:
+> Credit Card
+> UPI
+> PayPal
+All of them can have a pay() method, but each payment method performs the operation differently.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
