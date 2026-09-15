@@ -9,7 +9,7 @@ A collection of my Object-Oriented Programming concepts, examples, and practice 
 * Pillars of OOP and real-time examples
 
   * Types and Programs for Four Pillars
-  * Why doesn't Java support multiple inheritance with classes? (Diamond Problem)
+  * Why doesn't Java support multiple inheritance with classes? ( Diamond Problem )
 * Access Modifiers
 * Constructors
 * Keywords (`this`, `super`, `final`, `static`)
